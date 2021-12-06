@@ -3,7 +3,7 @@
 using namespace std;
 struct Node{
  int data;
- // int height;
+ // int height
  Node* left, *right;
  Node(int val){
  data=val;
