@@ -1,2 +1,2 @@
 # DSA-codes
-All the codes for grephs tree dp and other cp related codes.
+All the codes for graphs, tree, dp and other cp and dsa related codes.
