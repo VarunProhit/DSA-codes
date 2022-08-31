@@ -6,7 +6,6 @@ class Solution
             int n, m, i, j, k;
             n = o.size();
             m = o[0].size();
-            int dp[n][m];
             if (o[0][0] == 0)
                 o[0][0] = 1;
             else o[0][0] = 0;
