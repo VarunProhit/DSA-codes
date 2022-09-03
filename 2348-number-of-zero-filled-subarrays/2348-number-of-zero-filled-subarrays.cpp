@@ -1,35 +1,15 @@
-class Solution
-{
-    public:
-        long long zeroFilledSubarray(vector<int> &nums)
-        {
-            long long cnt = 0;
-            int i, j, k;
-            vector<pair<long long, long long>> v;
-            cnt = 1;
-            for (i = 0; i < nums.size() - 1; i++)
-            {
-                if (nums[i] == nums[i + 1]) cnt++;
-                else
-                {
-                    v.push_back({ nums[i],
-                        cnt });
-                    cnt = 1;
-                }
+class Solution {
+public:
+    long long zeroFilledSubarray(vector<int>& nums) {
+        long long ans = 0;
+        for(int i=0; i<nums.size(); i++){
+            long long x = 0;  //number of consecutive zeros 
+            while(i<nums.size() && nums[i]==0){
+                i++;
+                x++;
             }
-            v.push_back({ nums[nums.size() - 1],
-                cnt });
-            cnt = 0;
-            long long po = 0;
-            for (i = 0; i < v.size(); i++)
-            {
-                if (v[i].first == 0)
-                {
-                    po = (v[i].second *(v[i].second + 1)) / 2;
-                    cnt+=po;
-                }
-            }
-         //   cnt = po;
-            return cnt;
+            ans+=(x*(x+1)/2); // number of subarray 
         }
+        return ans;
+    }
 };
