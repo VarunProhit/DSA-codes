@@ -18,30 +18,27 @@ public:
 };
 */
 
-class Solution
-{
-    public:
-        vector<vector < int>> levelOrder(Node *root)
+class Solution {
+public:
+    vector<vector<int>> levelOrder(Node* root) {
+        vector<vector<int>> ans;
+        queue<Node* > q;
+        if(root==NULL)return ans;
+        q.push(root);
+        while(!q.empty())
         {
-            vector<vector < int>> ans;
-            queue<Node*> q;
-            if (root == NULL) return ans;
-            q.push(root);
-            while (!q.empty())
+            vector<int> a;
+            int n=q.size();
+            for(int i=0;i<n;i++)
             {
-                vector<int> a;
-                int n = q.size();
-                for (int i = 0; i < n; i++)
-                {
-                    auto t = q.front();
-                    q.pop();
-                    a.push_back(t->val);
-                    auto m = t->children;
-                    for (int i = 0; i < m.size(); i++)
-                        q.push(m[i]);
-                }
-                ans.push_back(a);
-            }
-            return ans;
+                auto t = q.front();
+                q.pop();
+               a.push_back(t->val);
+               auto m = t->children;
+                for(int i=0;i<m.size();i++)
+                    q.push(m[i]); 
+            } ans.push_back(a);     
         }
+        return ans;    
+    }
 };
