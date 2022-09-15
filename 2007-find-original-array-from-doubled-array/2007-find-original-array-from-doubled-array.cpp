@@ -1,43 +1,28 @@
 class Solution
 {
     public:
-        vector<int> findOriginalArray(vector<int> &changed)
-        {
-            sort(changed.begin(),changed.end());
-            int i, j, k;
-            vector<int> ans;
-            if (changed.size() &1)
-                return ans;
-            map<int, int> m;
-            for (i = 0; i < changed.size(); i++)
-                m[changed[i]]++;
-            for (i = 0; i < changed.size(); i++)
-            {
-                if(m[changed[i]]==0)continue;
-                if (changed[i] != 0)
-                {
-                    if (m[2 *changed[i]] > 0)
-                    {
-                        ans.push_back(changed[i]);
-                        m[2 *changed[i]]--;
-                        m[changed[i]]--;
-                    }
-                }
-                else
-                {
-                    if (m[2 *changed[i]] > 1)
-                    {
-                        ans.push_back(changed[i]);
-                        m[2 *changed[i]]--;
-                        m[changed[i]]--;
-                    }
-                }
-            }
-           	// cout<<ans.size()<<" "<<changed.size()<<endl;
-            if (ans.size() == (changed.size() / 2))
-                return ans;
-
-            vector<int> a;
-            return a;
-        }
+       static bool compare(int a, int b) {
+	return a < b;
+}
+vector<int> findOriginalArray(vector<int>& changed) {
+    int size = changed.size();
+    vector<int> res;
+    if(size & 1)
+        return res;
+    sort(changed.begin(), changed.end(), compare);
+    
+    queue<int> q;
+    q.push(changed[0]);
+    for(int i = 1; i < size; ++i) {
+        if(!q.empty() && q.front() << 1 == changed[i]) {
+            res.push_back(q.front());
+            q.pop();
+        } else
+            q.push(changed[i]);
+    }
+    
+    if(!q.empty())
+        return {};
+    return res;
+}
 };
