@@ -6,12 +6,15 @@ public:
         for(auto x:nums1)m1[x]++;
         for(auto x:nums2)m2[x]++;
         vector<int> ans;
-        for(auto x:nums1)
+           for(auto a:m1)
         {
-            auto y = min(m1[x],m2[x]);
-            if(m3[x]==0)
-            while(y--)ans.push_back(x);
-            m3[x]++;
+            int x=a.first;
+            int y=a.second;
+            int c=min(y, m2[x]);
+            while(c--)
+            {
+                ans.push_back(x);
+            }
         }
         return ans;
     }
