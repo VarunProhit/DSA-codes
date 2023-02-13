@@ -4,7 +4,7 @@ class Solution
         int deleteAndEarn(vector<int> &nums)
         {
             vector<int> dp(20001);
-            unordered_map<int, int> mp;
+            map<int, int> mp;
             for (int i: nums)
                 mp[i]++;
             dp[0] = 0;
