@@ -15,20 +15,20 @@ public:
             else u[i]=u[i+1];
         }
         int mi=INT_MAX, in=0;
-        for(i=0;i<=n;i++){
-            cout<<v[i]<<" "; 
-        }cout<<endl;
-        for(i=0;i<=n;i++){
-            cout<<u[i]<<" "; 
-        }
-        cout<<endl;
+        // for(i=0;i<=n;i++){
+        //     cout<<v[i]<<" "; 
+        // }cout<<endl;
+        // for(i=0;i<=n;i++){
+        //     cout<<u[i]<<" "; 
+        // }
+        // cout<<endl;
         for(i=0;i<=n;i++)
         {
             if(mi>(v[i]+u[i])){
                 
                 mi = v[i]+u[i];
                 in=i;
-                cout<<mi<<" ";
+               // cout<<mi<<" ";
             }
         }
         return in;
