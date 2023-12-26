@@ -20,3 +20,11 @@ jobs:
       - name: Update README
         run: |
           node updateReadme.js
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Auto-update README file [skip ci]"
+          git push
