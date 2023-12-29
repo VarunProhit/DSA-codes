@@ -252,6 +252,7 @@
 - [1569-number-of-ways-to-reorder-array-to-get-same-bst](./1569-number-of-ways-to-reorder-array-to-get-same-bst)
 - [1572-matrix-diagonal-sum](./1572-matrix-diagonal-sum)
 - [1575-count-all-possible-routes](./1575-count-all-possible-routes)
+- [1578-minimum-time-to-make-rope-colorful](./1578-minimum-time-to-make-rope-colorful)
 - [1582-special-positions-in-a-binary-matrix](./1582-special-positions-in-a-binary-matrix)
 - [1584-min-cost-to-connect-all-points](./1584-min-cost-to-connect-all-points)
 - [16-3sum-closest](./16-3sum-closest)
