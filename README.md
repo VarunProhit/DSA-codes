@@ -259,6 +259,7 @@
 - [1601-maximum-number-of-achievable-transfer-requests](./1601-maximum-number-of-achievable-transfer-requests)
 - [1603-design-parking-system](./1603-design-parking-system)
 - [1615-maximal-network-rank](./1615-maximal-network-rank)
+- [1624-largest-substring-between-two-equal-characters](./1624-largest-substring-between-two-equal-characters)
 - [1626-best-team-with-no-conflicts](./1626-best-team-with-no-conflicts)
 - [1631-path-with-minimum-effort](./1631-path-with-minimum-effort)
 - [1637-widest-vertical-area-between-two-points-containing-no-points](./1637-widest-vertical-area-between-two-points-containing-no-points)
