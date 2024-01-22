@@ -318,6 +318,7 @@
 - [2360-longest-cycle-in-a-graph](./2360-longest-cycle-in-a-graph)
 - [2366-minimum-replacements-to-sort-the-array](./2366-minimum-replacements-to-sort-the-array)
 - [2369-check-if-there-is-a-valid-partition-for-the-array](./2369-check-if-there-is-a-valid-partition-for-the-array)
+- [2385-amount-of-time-for-binary-tree-to-be-infected](./2385-amount-of-time-for-binary-tree-to-be-infected)
 - [2390-removing-stars-from-a-string](./2390-removing-stars-from-a-string)
 - [2405-optimal-partition-of-string](./2405-optimal-partition-of-string)
 - [2433-find-the-original-array-of-prefix-xor](./2433-find-the-original-array-of-prefix-xor)
