@@ -201,6 +201,7 @@
 - [1129-shortest-path-with-alternating-colors](./1129-shortest-path-with-alternating-colors)
 - [113-path-sum-ii](./113-path-sum-ii)
 - [1137-n-th-tribonacci-number](./1137-n-th-tribonacci-number)
+- [1143-longest-common-subsequence](./1143-longest-common-subsequence)
 - [1146-snapshot-array](./1146-snapshot-array)
 - [1155-number-of-dice-rolls-with-target-sum](./1155-number-of-dice-rolls-with-target-sum)
 - [1161-maximum-level-sum-of-a-binary-tree](./1161-maximum-level-sum-of-a-binary-tree)
