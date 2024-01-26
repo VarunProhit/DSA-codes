@@ -73,6 +73,7 @@
 - [0198-house-robber](./0198-house-robber)
 - [0200-number-of-islands](./0200-number-of-islands)
 - [0203-remove-linked-list-elements](./0203-remove-linked-list-elements)
+- [0204-count-primes](./0204-count-primes)
 - [0205-isomorphic-strings](./0205-isomorphic-strings)
 - [0206-reverse-linked-list](./0206-reverse-linked-list)
 - [0207-course-schedule](./0207-course-schedule)
