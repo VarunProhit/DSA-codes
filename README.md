@@ -147,6 +147,7 @@
 - [0724-find-pivot-index](./0724-find-pivot-index)
 - [0725-split-linked-list-in-parts](./0725-split-linked-list-in-parts)
 - [0733-flood-fill](./0733-flood-fill)
+- [0739-daily-temperatures](./0739-daily-temperatures)
 - [0740-delete-and-earn](./0740-delete-and-earn)
 - [0744-find-smallest-letter-greater-than-target](./0744-find-smallest-letter-greater-than-target)
 - [0746-min-cost-climbing-stairs](./0746-min-cost-climbing-stairs)
