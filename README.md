@@ -341,6 +341,7 @@
 - [2707-extra-characters-in-a-string](./2707-extra-characters-in-a-string)
 - [2785-sort-vowels-in-a-string](./2785-sort-vowels-in-a-string)
 - [2903-find-indices-with-index-and-value-difference-i](./2903-find-indices-with-index-and-value-difference-i)
+- [2966-divide-array-into-arrays-with-max-difference](./2966-divide-array-into-arrays-with-max-difference)
 - [300-longest-increasing-subsequence](./300-longest-increasing-subsequence)
 - [310-minimum-height-trees](./310-minimum-height-trees)
 - [336-palindrome-pairs](./336-palindrome-pairs)
