@@ -215,6 +215,7 @@
 - [1232-check-if-it-is-a-straight-line](./1232-check-if-it-is-a-straight-line)
 - [1254-number-of-closed-islands](./1254-number-of-closed-islands)
 - [1282-group-the-people-given-the-group-size-they-belong-to](./1282-group-the-people-given-the-group-size-they-belong-to)
+- [1291-sequential-digits](./1291-sequential-digits)
 - [1318-minimum-flips-to-make-a-or-b-equal-to-c](./1318-minimum-flips-to-make-a-or-b-equal-to-c)
 - [1319-number-of-operations-to-make-network-connected](./1319-number-of-operations-to-make-network-connected)
 - [1323-maximum-69-number](./1323-maximum-69-number)
