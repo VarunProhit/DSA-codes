@@ -16,7 +16,6 @@ public:
                 if(st.size()<i)st+=j+'0';
                 else break;
             }
-            cout<<add<<" "<<st;
             while(st.size()==i)
             {
                 if(stoi(st)>=low && stoi(st)<=high)
@@ -26,8 +25,6 @@ public:
             }
             
         }
-        for(auto x:ans)cout<<x<<" ";
-        vector<int> an;
         return ans;
         
     }
