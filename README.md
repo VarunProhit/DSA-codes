@@ -18,6 +18,7 @@
 - [0036-valid-sudoku](./0036-valid-sudoku)
 - [0045-jump-game-ii](./0045-jump-game-ii)
 - [0046-permutations](./0046-permutations)
+- [0049-group-anagrams](./0049-group-anagrams)
 - [0050-powx-n](./0050-powx-n)
 - [0053-maximum-subarray](./0053-maximum-subarray)
 - [0054-spiral-matrix](./0054-spiral-matrix)
