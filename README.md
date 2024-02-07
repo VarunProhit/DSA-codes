@@ -190,6 +190,7 @@
 - [0983-minimum-cost-for-tickets](./0983-minimum-cost-for-tickets)
 - [0989-add-to-array-form-of-integer](./0989-add-to-array-form-of-integer)
 - [0994-rotting-oranges](./0994-rotting-oranges)
+- [1004-max-consecutive-ones-iii](./1004-max-consecutive-ones-iii)
 - [1011-capacity-to-ship-packages-within-d-days](./1011-capacity-to-ship-packages-within-d-days)
 - [1014-best-sightseeing-pair](./1014-best-sightseeing-pair)
 - [1027-longest-arithmetic-subsequence](./1027-longest-arithmetic-subsequence)
