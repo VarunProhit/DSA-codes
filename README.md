@@ -134,6 +134,7 @@
 - [0605-can-place-flowers](./0605-can-place-flowers)
 - [0617-merge-two-binary-trees](./0617-merge-two-binary-trees)
 - [0646-maximum-length-of-pair-chain](./0646-maximum-length-of-pair-chain)
+- [0647-palindromic-substrings](./0647-palindromic-substrings)
 - [0649-dota2-senate](./0649-dota2-senate)
 - [0664-strange-printer](./0664-strange-printer)
 - [0673-number-of-longest-increasing-subsequence](./0673-number-of-longest-increasing-subsequence)
