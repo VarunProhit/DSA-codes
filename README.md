@@ -244,6 +244,7 @@
 - [1470-shuffle-the-array](./1470-shuffle-the-array)
 - [1472-design-browser-history](./1472-design-browser-history)
 - [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array)
+- [1481-least-number-of-unique-integers-after-k-removals](./1481-least-number-of-unique-integers-after-k-removals)
 - [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](./1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)
 - [1491-average-salary-excluding-the-minimum-and-maximum-salary](./1491-average-salary-excluding-the-minimum-and-maximum-salary)
 - [1493-longest-subarray-of-1s-after-deleting-one-element](./1493-longest-subarray-of-1s-after-deleting-one-element)
