@@ -343,6 +343,7 @@
 - [2542-maximum-subsequence-score](./2542-maximum-subsequence-score)
 - [2551-put-marbles-in-bags](./2551-put-marbles-in-bags)
 - [2616-minimize-the-maximum-difference-of-pairs](./2616-minimize-the-maximum-difference-of-pairs)
+- [2667-create-hello-world-function](./2667-create-hello-world-function)
 - [2706-buy-two-chocolates](./2706-buy-two-chocolates)
 - [2707-extra-characters-in-a-string](./2707-extra-characters-in-a-string)
 - [2785-sort-vowels-in-a-string](./2785-sort-vowels-in-a-string)
