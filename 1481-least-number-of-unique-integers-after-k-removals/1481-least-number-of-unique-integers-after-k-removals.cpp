@@ -17,7 +17,6 @@ public:
        }
         sort(v.begin(),v.end());
         int st=0;
-        for(auto x:v)cout<<x.second<<" "<<x.first<<endl;
         for(int i=0;i<v.size();i++)
         {
             if(v[i].first>k)break;
