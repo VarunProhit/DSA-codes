@@ -45,6 +45,7 @@
 - [0095-unique-binary-search-trees-ii](./0095-unique-binary-search-trees-ii)
 - [0097-interleaving-string](./0097-interleaving-string)
 - [0098-validate-binary-search-tree](./0098-validate-binary-search-tree)
+- [0100-same-tree](./0100-same-tree)
 - [0101-symmetric-tree](./0101-symmetric-tree)
 - [0102-binary-tree-level-order-traversal](./0102-binary-tree-level-order-traversal)
 - [0103-binary-tree-zigzag-level-order-traversal](./0103-binary-tree-zigzag-level-order-traversal)
