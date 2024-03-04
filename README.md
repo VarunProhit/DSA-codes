@@ -186,6 +186,7 @@
 - [0920-number-of-music-playlists](./0920-number-of-music-playlists)
 - [0934-shortest-bridge](./0934-shortest-bridge)
 - [0946-validate-stack-sequences](./0946-validate-stack-sequences)
+- [0948-bag-of-tokens](./0948-bag-of-tokens)
 - [0953-verifying-an-alien-dictionary](./0953-verifying-an-alien-dictionary)
 - [0956-tallest-billboard](./0956-tallest-billboard)
 - [0958-check-completeness-of-a-binary-tree](./0958-check-completeness-of-a-binary-tree)
