@@ -106,6 +106,7 @@
 - [0345-reverse-vowels-of-a-string](./0345-reverse-vowels-of-a-string)
 - [0347-top-k-frequent-elements](./0347-top-k-frequent-elements)
 - [0350-intersection-of-two-arrays-ii](./0350-intersection-of-two-arrays-ii)
+- [0367-valid-perfect-square](./0367-valid-perfect-square)
 - [0373-find-k-pairs-with-smallest-sums](./0373-find-k-pairs-with-smallest-sums)
 - [0377-combination-sum-iv](./0377-combination-sum-iv)
 - [0382-linked-list-random-node](./0382-linked-list-random-node)
