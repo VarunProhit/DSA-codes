@@ -288,6 +288,7 @@
 - [1732-find-the-highest-altitude](./1732-find-the-highest-altitude)
 - [1743-restore-the-array-from-adjacent-pairs](./1743-restore-the-array-from-adjacent-pairs)
 - [1751-maximum-number-of-events-that-can-be-attended-ii](./1751-maximum-number-of-events-that-can-be-attended-ii)
+- [1757-recyclable-and-low-fat-products](./1757-recyclable-and-low-fat-products)
 - [1759-count-number-of-homogenous-substrings](./1759-count-number-of-homogenous-substrings)
 - [1768-merge-strings-alternately](./1768-merge-strings-alternately)
 - [1770-maximum-score-from-performing-multiplication-operations](./1770-maximum-score-from-performing-multiplication-operations)
