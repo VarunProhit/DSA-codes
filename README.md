@@ -133,6 +133,7 @@
 - [0557-reverse-words-in-a-string-iii](./0557-reverse-words-in-a-string-iii)
 - [0566-reshape-the-matrix](./0566-reshape-the-matrix)
 - [0567-permutation-in-string](./0567-permutation-in-string)
+- [0570-managers-with-at-least-5-direct-reports](./0570-managers-with-at-least-5-direct-reports)
 - [0589-n-ary-tree-preorder-traversal](./0589-n-ary-tree-preorder-traversal)
 - [0605-can-place-flowers](./0605-can-place-flowers)
 - [0617-merge-two-binary-trees](./0617-merge-two-binary-trees)
