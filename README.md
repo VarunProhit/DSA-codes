@@ -235,6 +235,7 @@
 - [1361-validate-binary-tree-nodes](./1361-validate-binary-tree-nodes)
 - [1372-longest-zigzag-path-in-a-binary-tree](./1372-longest-zigzag-path-in-a-binary-tree)
 - [1376-time-needed-to-inform-all-employees](./1376-time-needed-to-inform-all-employees)
+- [1378-replace-employee-id-with-the-unique-identifier](./1378-replace-employee-id-with-the-unique-identifier)
 - [1383-maximum-performance-of-a-team](./1383-maximum-performance-of-a-team)
 - [1396-design-underground-system](./1396-design-underground-system)
 - [1402-reducing-dishes](./1402-reducing-dishes)
