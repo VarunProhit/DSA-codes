@@ -120,6 +120,7 @@
 - [0403-frog-jump](./0403-frog-jump)
 - [0409-longest-palindrome](./0409-longest-palindrome)
 - [0438-find-all-anagrams-in-a-string](./0438-find-all-anagrams-in-a-string)
+- [0442-find-all-duplicates-in-an-array](./0442-find-all-duplicates-in-an-array)
 - [0443-string-compression](./0443-string-compression)
 - [0456-132-pattern](./0456-132-pattern)
 - [0459-repeated-substring-pattern](./0459-repeated-substring-pattern)
