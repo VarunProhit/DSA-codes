@@ -278,6 +278,7 @@
 - [1601-maximum-number-of-achievable-transfer-requests](./1601-maximum-number-of-achievable-transfer-requests)
 - [1603-design-parking-system](./1603-design-parking-system)
 - [1609-even-odd-tree](./1609-even-odd-tree)
+- [1614-maximum-nesting-depth-of-the-parentheses](./1614-maximum-nesting-depth-of-the-parentheses)
 - [1615-maximal-network-rank](./1615-maximal-network-rank)
 - [1624-largest-substring-between-two-equal-characters](./1624-largest-substring-between-two-equal-characters)
 - [1626-best-team-with-no-conflicts](./1626-best-team-with-no-conflicts)
