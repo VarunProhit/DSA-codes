@@ -292,6 +292,7 @@
 - [1675-minimize-deviation-in-array](./1675-minimize-deviation-in-array)
 - [1680-concatenation-of-consecutive-binary-numbers](./1680-concatenation-of-consecutive-binary-numbers)
 - [1697-checking-existence-of-edge-length-limited-paths](./1697-checking-existence-of-edge-length-limited-paths)
+- [1700-number-of-students-unable-to-eat-lunch](./1700-number-of-students-unable-to-eat-lunch)
 - [1721-swapping-nodes-in-a-linked-list](./1721-swapping-nodes-in-a-linked-list)
 - [1732-find-the-highest-altitude](./1732-find-the-highest-altitude)
 - [1743-restore-the-array-from-adjacent-pairs](./1743-restore-the-array-from-adjacent-pairs)
