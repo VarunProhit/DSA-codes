@@ -16,6 +16,7 @@
 - [0031-next-permutation](./0031-next-permutation)
 - [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array)
 - [0036-valid-sudoku](./0036-valid-sudoku)
+- [0042-trapping-rain-water](./0042-trapping-rain-water)
 - [0045-jump-game-ii](./0045-jump-game-ii)
 - [0046-permutations](./0046-permutations)
 - [0049-group-anagrams](./0049-group-anagrams)
