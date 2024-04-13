@@ -37,6 +37,7 @@
 - [0077-combinations](./0077-combinations)
 - [0081-search-in-rotated-sorted-array-ii](./0081-search-in-rotated-sorted-array-ii)
 - [0083-remove-duplicates-from-sorted-list](./0083-remove-duplicates-from-sorted-list)
+- [0085-maximal-rectangle](./0085-maximal-rectangle)
 - [0086-partition-list](./0086-partition-list)
 - [0087-scramble-string](./0087-scramble-string)
 - [0088-merge-sorted-array](./0088-merge-sorted-array)
