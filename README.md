@@ -126,6 +126,7 @@
 - [0443-string-compression](./0443-string-compression)
 - [0456-132-pattern](./0456-132-pattern)
 - [0459-repeated-substring-pattern](./0459-repeated-substring-pattern)
+- [0460-lfu-cache](./0460-lfu-cache)
 - [0486-predict-the-winner](./0486-predict-the-winner)
 - [0502-ipo](./0502-ipo)
 - [0509-fibonacci-number](./0509-fibonacci-number)
