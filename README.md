@@ -351,6 +351,7 @@
 - [2390-removing-stars-from-a-string](./2390-removing-stars-from-a-string)
 - [2405-optimal-partition-of-string](./2405-optimal-partition-of-string)
 - [2433-find-the-original-array-of-prefix-xor](./2433-find-the-original-array-of-prefix-xor)
+- [2441-largest-positive-integer-that-exists-with-its-negative](./2441-largest-positive-integer-that-exists-with-its-negative)
 - [2444-count-subarrays-with-fixed-bounds](./2444-count-subarrays-with-fixed-bounds)
 - [2448-minimum-cost-to-make-array-equal](./2448-minimum-cost-to-make-array-equal)
 - [2462-total-cost-to-hire-k-workers](./2462-total-cost-to-hire-k-workers)
