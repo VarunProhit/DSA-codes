@@ -343,6 +343,7 @@
 - [2306-naming-a-company](./2306-naming-a-company)
 - [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](./2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph)
 - [2328-number-of-increasing-paths-in-a-grid](./2328-number-of-increasing-paths-in-a-grid)
+- [2331-evaluate-boolean-binary-tree](./2331-evaluate-boolean-binary-tree)
 - [2336-smallest-number-in-infinite-set](./2336-smallest-number-in-infinite-set)
 - [2348-number-of-zero-filled-subarrays](./2348-number-of-zero-filled-subarrays)
 - [2352-equal-row-and-column-pairs](./2352-equal-row-and-column-pairs)
