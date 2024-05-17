@@ -237,6 +237,7 @@
 - [1318-minimum-flips-to-make-a-or-b-equal-to-c](./1318-minimum-flips-to-make-a-or-b-equal-to-c)
 - [1319-number-of-operations-to-make-network-connected](./1319-number-of-operations-to-make-network-connected)
 - [1323-maximum-69-number](./1323-maximum-69-number)
+- [1325-delete-leaves-with-a-given-value](./1325-delete-leaves-with-a-given-value)
 - [1326-minimum-number-of-taps-to-open-to-water-a-garden](./1326-minimum-number-of-taps-to-open-to-water-a-garden)
 - [1337-the-k-weakest-rows-in-a-matrix](./1337-the-k-weakest-rows-in-a-matrix)
 - [1351-count-negative-numbers-in-a-sorted-matrix](./1351-count-negative-numbers-in-a-sorted-matrix)
