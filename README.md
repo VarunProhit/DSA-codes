@@ -200,6 +200,7 @@
 - [0956-tallest-billboard](./0956-tallest-billboard)
 - [0958-check-completeness-of-a-binary-tree](./0958-check-completeness-of-a-binary-tree)
 - [0976-largest-perimeter-triangle](./0976-largest-perimeter-triangle)
+- [0979-distribute-coins-in-binary-tree](./0979-distribute-coins-in-binary-tree)
 - [0983-minimum-cost-for-tickets](./0983-minimum-cost-for-tickets)
 - [0989-add-to-array-form-of-integer](./0989-add-to-array-form-of-integer)
 - [0994-rotting-oranges](./0994-rotting-oranges)
