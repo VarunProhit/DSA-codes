@@ -314,6 +314,7 @@
 - [1822-sign-of-the-product-of-an-array](./1822-sign-of-the-product-of-an-array)
 - [1838-frequency-of-the-most-frequent-element](./1838-frequency-of-the-most-frequent-element)
 - [1846-maximum-element-after-decreasing-and-rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
+- [1863-sum-of-all-subset-xor-totals](./1863-sum-of-all-subset-xor-totals)
 - [1870-minimum-speed-to-arrive-on-time](./1870-minimum-speed-to-arrive-on-time)
 - [1877-minimize-maximum-pair-sum-in-array](./1877-minimize-maximum-pair-sum-in-array)
 - [188-best-time-to-buy-and-sell-stock-iv](./188-best-time-to-buy-and-sell-stock-iv)
