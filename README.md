@@ -35,6 +35,7 @@
 - [0072-edit-distance](./0072-edit-distance)
 - [0074-search-a-2d-matrix](./0074-search-a-2d-matrix)
 - [0077-combinations](./0077-combinations)
+- [0078-subsets](./0078-subsets)
 - [0081-search-in-rotated-sorted-array-ii](./0081-search-in-rotated-sorted-array-ii)
 - [0083-remove-duplicates-from-sorted-list](./0083-remove-duplicates-from-sorted-list)
 - [0085-maximal-rectangle](./0085-maximal-rectangle)
