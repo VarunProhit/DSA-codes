@@ -369,6 +369,7 @@
 - [2492-minimum-score-of-a-path-between-two-cities](./2492-minimum-score-of-a-path-between-two-cities)
 - [2542-maximum-subsequence-score](./2542-maximum-subsequence-score)
 - [2551-put-marbles-in-bags](./2551-put-marbles-in-bags)
+- [2597-the-number-of-beautiful-subsets](./2597-the-number-of-beautiful-subsets)
 - [2616-minimize-the-maximum-difference-of-pairs](./2616-minimize-the-maximum-difference-of-pairs)
 - [2620-counter](./2620-counter)
 - [2667-create-hello-world-function](./2667-create-hello-world-function)
