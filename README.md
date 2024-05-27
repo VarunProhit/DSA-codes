@@ -285,6 +285,7 @@
 - [16-3sum-closest](./16-3sum-closest)
 - [1601-maximum-number-of-achievable-transfer-requests](./1601-maximum-number-of-achievable-transfer-requests)
 - [1603-design-parking-system](./1603-design-parking-system)
+- [1608-special-array-with-x-elements-greater-than-or-equal-x](./1608-special-array-with-x-elements-greater-than-or-equal-x)
 - [1609-even-odd-tree](./1609-even-odd-tree)
 - [1614-maximum-nesting-depth-of-the-parentheses](./1614-maximum-nesting-depth-of-the-parentheses)
 - [1615-maximal-network-rank](./1615-maximal-network-rank)
