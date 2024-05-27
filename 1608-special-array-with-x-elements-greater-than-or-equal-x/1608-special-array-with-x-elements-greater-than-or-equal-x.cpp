@@ -1,7 +1,6 @@
 class Solution {
 public:
     int specialArray(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
         int ans=-1;
         vector<int> v(1001,0);
         for(int i=nums.size()-1;i>=0;i--)
