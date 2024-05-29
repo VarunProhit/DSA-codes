@@ -252,6 +252,7 @@
 - [1383-maximum-performance-of-a-team](./1383-maximum-performance-of-a-team)
 - [1396-design-underground-system](./1396-design-underground-system)
 - [1402-reducing-dishes](./1402-reducing-dishes)
+- [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](./1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one)
 - [1406-stone-game-iii](./1406-stone-game-iii)
 - [1416-restore-the-array](./1416-restore-the-array)
 - [1422-maximum-score-after-splitting-a-string](./1422-maximum-score-after-splitting-a-string)
