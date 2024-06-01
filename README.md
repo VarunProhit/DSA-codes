@@ -284,6 +284,7 @@
 - [1572-matrix-diagonal-sum](./1572-matrix-diagonal-sum)
 - [1575-count-all-possible-routes](./1575-count-all-possible-routes)
 - [1578-minimum-time-to-make-rope-colorful](./1578-minimum-time-to-make-rope-colorful)
+- [1581-customer-who-visited-but-did-not-make-any-transactions](./1581-customer-who-visited-but-did-not-make-any-transactions)
 - [1582-special-positions-in-a-binary-matrix](./1582-special-positions-in-a-binary-matrix)
 - [1584-min-cost-to-connect-all-points](./1584-min-cost-to-connect-all-points)
 - [16-3sum-closest](./16-3sum-closest)
