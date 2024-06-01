@@ -385,6 +385,7 @@
 - [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./2997-minimum-number-of-operations-to-make-array-xor-equal-to-k)
 - [300-longest-increasing-subsequence](./300-longest-increasing-subsequence)
 - [310-minimum-height-trees](./310-minimum-height-trees)
+- [3110-score-of-a-string](./3110-score-of-a-string)
 - [336-palindrome-pairs](./336-palindrome-pairs)
 - [393-utf-8-validation](./393-utf-8-validation)
 - [417-pacific-atlantic-water-flow](./417-pacific-atlantic-water-flow)
