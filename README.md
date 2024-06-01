@@ -216,6 +216,7 @@
 - [1046-last-stone-weight](./1046-last-stone-weight)
 - [1047-remove-all-adjacent-duplicates-in-string](./1047-remove-all-adjacent-duplicates-in-string)
 - [1048-longest-string-chain](./1048-longest-string-chain)
+- [1068-product-sales-analysis-i](./1068-product-sales-analysis-i)
 - [1071-greatest-common-divisor-of-strings](./1071-greatest-common-divisor-of-strings)
 - [1091-shortest-path-in-binary-matrix](./1091-shortest-path-in-binary-matrix)
 - [112-path-sum](./112-path-sum)
