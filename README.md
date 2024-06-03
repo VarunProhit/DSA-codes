@@ -372,6 +372,7 @@
 - [2477-minimum-fuel-cost-to-report-to-the-capital](./2477-minimum-fuel-cost-to-report-to-the-capital)
 - [2482-difference-between-ones-and-zeros-in-row-and-column](./2482-difference-between-ones-and-zeros-in-row-and-column)
 - [2483-minimum-penalty-for-a-shop](./2483-minimum-penalty-for-a-shop)
+- [2486-append-characters-to-string-to-make-subsequence](./2486-append-characters-to-string-to-make-subsequence)
 - [2492-minimum-score-of-a-path-between-two-cities](./2492-minimum-score-of-a-path-between-two-cities)
 - [2542-maximum-subsequence-score](./2542-maximum-subsequence-score)
 - [2551-put-marbles-in-bags](./2551-put-marbles-in-bags)
