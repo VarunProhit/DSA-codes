@@ -173,6 +173,7 @@
 - [0799-champagne-tower](./0799-champagne-tower)
 - [0802-find-eventual-safe-states](./0802-find-eventual-safe-states)
 - [0808-soup-servings](./0808-soup-servings)
+- [0826-most-profit-assigning-work](./0826-most-profit-assigning-work)
 - [0837-new-21-game](./0837-new-21-game)
 - [0839-similar-string-groups](./0839-similar-string-groups)
 - [0841-keys-and-rooms](./0841-keys-and-rooms)
