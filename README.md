@@ -237,6 +237,7 @@
 - [1218-longest-arithmetic-subsequence-of-given-difference](./1218-longest-arithmetic-subsequence-of-given-difference)
 - [1219-path-with-maximum-gold](./1219-path-with-maximum-gold)
 - [1232-check-if-it-is-a-straight-line](./1232-check-if-it-is-a-straight-line)
+- [1248-count-number-of-nice-subarrays](./1248-count-number-of-nice-subarrays)
 - [1254-number-of-closed-islands](./1254-number-of-closed-islands)
 - [1280-students-and-examinations](./1280-students-and-examinations)
 - [1282-group-the-people-given-the-group-size-they-belong-to](./1282-group-the-people-given-the-group-size-they-belong-to)
