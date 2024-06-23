@@ -264,6 +264,7 @@
 - [1422-maximum-score-after-splitting-a-string](./1422-maximum-score-after-splitting-a-string)
 - [1431-kids-with-the-greatest-number-of-candies](./1431-kids-with-the-greatest-number-of-candies)
 - [1436-destination-city](./1436-destination-city)
+- [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](./1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)
 - [1448-count-good-nodes-in-binary-tree](./1448-count-good-nodes-in-binary-tree)
 - [1456-maximum-number-of-vowels-in-a-substring-of-given-length](./1456-maximum-number-of-vowels-in-a-substring-of-given-length)
 - [1457-pseudo-palindromic-paths-in-a-binary-tree](./1457-pseudo-palindromic-paths-in-a-binary-tree)
