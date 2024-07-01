@@ -282,6 +282,7 @@
 - [1523-count-odd-numbers-in-an-interval-range](./1523-count-odd-numbers-in-an-interval-range)
 - [1539-kth-missing-positive-number](./1539-kth-missing-positive-number)
 - [1547-minimum-cost-to-cut-a-stick](./1547-minimum-cost-to-cut-a-stick)
+- [1550-three-consecutive-odds](./1550-three-consecutive-odds)
 - [1557-minimum-number-of-vertices-to-reach-all-nodes](./1557-minimum-number-of-vertices-to-reach-all-nodes)
 - [1567-maximum-length-of-subarray-with-positive-product](./1567-maximum-length-of-subarray-with-positive-product)
 - [1569-number-of-ways-to-reorder-array-to-get-same-bst](./1569-number-of-ways-to-reorder-array-to-get-same-bst)
