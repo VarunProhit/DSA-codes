@@ -278,6 +278,7 @@
 - [1496-path-crossing](./1496-path-crossing)
 - [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](./1498-number-of-subsequences-that-satisfy-the-given-sum-condition)
 - [1502-can-make-arithmetic-progression-from-sequence](./1502-can-make-arithmetic-progression-from-sequence)
+- [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](./1509-minimum-difference-between-largest-and-smallest-value-in-three-moves)
 - [1512-number-of-good-pairs](./1512-number-of-good-pairs)
 - [1523-count-odd-numbers-in-an-interval-range](./1523-count-odd-numbers-in-an-interval-range)
 - [1539-kth-missing-positive-number](./1539-kth-missing-positive-number)
