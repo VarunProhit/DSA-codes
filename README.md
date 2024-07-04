@@ -350,6 +350,7 @@
 - [2140-solving-questions-with-brainpower](./2140-solving-questions-with-brainpower)
 - [2141-maximum-running-time-of-n-computers](./2141-maximum-running-time-of-n-computers)
 - [2149-rearrange-array-elements-by-sign](./2149-rearrange-array-elements-by-sign)
+- [2181-merge-nodes-in-between-zeros](./2181-merge-nodes-in-between-zeros)
 - [2187-minimum-time-to-complete-trips](./2187-minimum-time-to-complete-trips)
 - [2215-find-the-difference-of-two-arrays](./2215-find-the-difference-of-two-arrays)
 - [2218-maximum-value-of-k-coins-from-piles](./2218-maximum-value-of-k-coins-from-piles)
