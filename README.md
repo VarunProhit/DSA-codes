@@ -280,6 +280,7 @@
 - [1502-can-make-arithmetic-progression-from-sequence](./1502-can-make-arithmetic-progression-from-sequence)
 - [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](./1509-minimum-difference-between-largest-and-smallest-value-in-three-moves)
 - [1512-number-of-good-pairs](./1512-number-of-good-pairs)
+- [1518-water-bottles](./1518-water-bottles)
 - [1523-count-odd-numbers-in-an-interval-range](./1523-count-odd-numbers-in-an-interval-range)
 - [1539-kth-missing-positive-number](./1539-kth-missing-positive-number)
 - [1547-minimum-cost-to-cut-a-stick](./1547-minimum-cost-to-cut-a-stick)
