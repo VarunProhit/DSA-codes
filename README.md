@@ -221,6 +221,7 @@
 - [1068-product-sales-analysis-i](./1068-product-sales-analysis-i)
 - [1071-greatest-common-divisor-of-strings](./1071-greatest-common-divisor-of-strings)
 - [1091-shortest-path-in-binary-matrix](./1091-shortest-path-in-binary-matrix)
+- [1110-delete-nodes-and-return-forest](./1110-delete-nodes-and-return-forest)
 - [112-path-sum](./112-path-sum)
 - [1125-smallest-sufficient-team](./1125-smallest-sufficient-team)
 - [1129-shortest-path-with-alternating-colors](./1129-shortest-path-with-alternating-colors)
