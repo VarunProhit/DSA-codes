@@ -306,6 +306,7 @@
 - [1624-largest-substring-between-two-equal-characters](./1624-largest-substring-between-two-equal-characters)
 - [1626-best-team-with-no-conflicts](./1626-best-team-with-no-conflicts)
 - [1631-path-with-minimum-effort](./1631-path-with-minimum-effort)
+- [1636-sort-array-by-increasing-frequency](./1636-sort-array-by-increasing-frequency)
 - [1637-widest-vertical-area-between-two-points-containing-no-points](./1637-widest-vertical-area-between-two-points-containing-no-points)
 - [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](./1639-number-of-ways-to-form-a-target-string-given-a-dictionary)
 - [1647-minimum-deletions-to-make-character-frequencies-unique](./1647-minimum-deletions-to-make-character-frequencies-unique)
