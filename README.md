@@ -136,6 +136,7 @@
 - [0530-minimum-absolute-difference-in-bst](./0530-minimum-absolute-difference-in-bst)
 - [0540-single-element-in-a-sorted-array](./0540-single-element-in-a-sorted-array)
 - [0542-01-matrix](./0542-01-matrix)
+- [0543-diameter-of-binary-tree](./0543-diameter-of-binary-tree)
 - [0547-number-of-provinces](./0547-number-of-provinces)
 - [0557-reverse-words-in-a-string-iii](./0557-reverse-words-in-a-string-iii)
 - [0566-reshape-the-matrix](./0566-reshape-the-matrix)
