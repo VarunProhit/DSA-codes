@@ -11,6 +11,7 @@
 - [0021-merge-two-sorted-lists](./0021-merge-two-sorted-lists)
 - [0023-merge-k-sorted-lists](./0023-merge-k-sorted-lists)
 - [0024-swap-nodes-in-pairs](./0024-swap-nodes-in-pairs)
+- [0025-reverse-nodes-in-k-group](./0025-reverse-nodes-in-k-group)
 - [0026-remove-duplicates-from-sorted-array](./0026-remove-duplicates-from-sorted-array)
 - [0028-find-the-index-of-the-first-occurrence-in-a-string](./0028-find-the-index-of-the-first-occurrence-in-a-string)
 - [0031-next-permutation](./0031-next-permutation)
