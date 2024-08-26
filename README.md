@@ -146,6 +146,7 @@
 - [0570-managers-with-at-least-5-direct-reports](./0570-managers-with-at-least-5-direct-reports)
 - [0584-find-customer-referee](./0584-find-customer-referee)
 - [0589-n-ary-tree-preorder-traversal](./0589-n-ary-tree-preorder-traversal)
+- [0590-n-ary-tree-postorder-traversal](./0590-n-ary-tree-postorder-traversal)
 - [0595-big-countries](./0595-big-countries)
 - [0605-can-place-flowers](./0605-can-place-flowers)
 - [0617-merge-two-binary-trees](./0617-merge-two-binary-trees)
