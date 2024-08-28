@@ -343,6 +343,7 @@
 - [188-best-time-to-buy-and-sell-stock-iv](./188-best-time-to-buy-and-sell-stock-iv)
 - [1887-reduction-operations-to-make-the-array-elements-equal](./1887-reduction-operations-to-make-the-array-elements-equal)
 - [19-remove-nth-node-from-end-of-list](./19-remove-nth-node-from-end-of-list)
+- [1905-count-sub-islands](./1905-count-sub-islands)
 - [1913-maximum-product-difference-between-two-pairs](./1913-maximum-product-difference-between-two-pairs)
 - [1930-unique-length-3-palindromic-subsequences](./1930-unique-length-3-palindromic-subsequences)
 - [1970-last-day-where-you-can-still-cross](./1970-last-day-where-you-can-still-cross)
