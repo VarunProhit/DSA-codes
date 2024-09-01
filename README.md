@@ -351,6 +351,7 @@
 - [1980-find-unique-binary-string](./1980-find-unique-binary-string)
 - [1996-the-number-of-weak-characters-in-the-game](./1996-the-number-of-weak-characters-in-the-game)
 - [2007-find-original-array-from-doubled-array](./2007-find-original-array-from-doubled-array)
+- [2022-convert-1d-array-into-2d-array](./2022-convert-1d-array-into-2d-array)
 - [2024-maximize-the-confusion-of-an-exam](./2024-maximize-the-confusion-of-an-exam)
 - [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](./2038-remove-colored-pieces-if-both-neighbors-are-the-same-color)
 - [2090-k-radius-subarray-averages](./2090-k-radius-subarray-averages)
