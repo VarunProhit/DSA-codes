@@ -342,6 +342,7 @@
 - [1877-minimize-maximum-pair-sum-in-array](./1877-minimize-maximum-pair-sum-in-array)
 - [188-best-time-to-buy-and-sell-stock-iv](./188-best-time-to-buy-and-sell-stock-iv)
 - [1887-reduction-operations-to-make-the-array-elements-equal](./1887-reduction-operations-to-make-the-array-elements-equal)
+- [1894-find-the-student-that-will-replace-the-chalk](./1894-find-the-student-that-will-replace-the-chalk)
 - [19-remove-nth-node-from-end-of-list](./19-remove-nth-node-from-end-of-list)
 - [1905-count-sub-islands](./1905-count-sub-islands)
 - [1913-maximum-product-difference-between-two-pairs](./1913-maximum-product-difference-between-two-pairs)
