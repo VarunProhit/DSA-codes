@@ -347,6 +347,7 @@
 - [1905-count-sub-islands](./1905-count-sub-islands)
 - [1913-maximum-product-difference-between-two-pairs](./1913-maximum-product-difference-between-two-pairs)
 - [1930-unique-length-3-palindromic-subsequences](./1930-unique-length-3-palindromic-subsequences)
+- [1945-sum-of-digits-of-string-after-convert](./1945-sum-of-digits-of-string-after-convert)
 - [1970-last-day-where-you-can-still-cross](./1970-last-day-where-you-can-still-cross)
 - [1971-find-if-path-exists-in-graph](./1971-find-if-path-exists-in-graph)
 - [1980-find-unique-binary-string](./1980-find-unique-binary-string)
