@@ -188,6 +188,7 @@
 - [0861-score-after-flipping-matrix](./0861-score-after-flipping-matrix)
 - [0863-all-nodes-distance-k-in-binary-tree](./0863-all-nodes-distance-k-in-binary-tree)
 - [0864-shortest-path-to-get-all-keys](./0864-shortest-path-to-get-all-keys)
+- [0874-walking-robot-simulation](./0874-walking-robot-simulation)
 - [0875-koko-eating-bananas](./0875-koko-eating-bananas)
 - [0876-middle-of-the-linked-list](./0876-middle-of-the-linked-list)
 - [0879-profitable-schemes](./0879-profitable-schemes)
