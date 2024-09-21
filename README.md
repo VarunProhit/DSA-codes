@@ -117,6 +117,7 @@
 - [0377-combination-sum-iv](./0377-combination-sum-iv)
 - [0382-linked-list-random-node](./0382-linked-list-random-node)
 - [0383-ransom-note](./0383-ransom-note)
+- [0386-lexicographical-numbers](./0386-lexicographical-numbers)
 - [0387-first-unique-character-in-a-string](./0387-first-unique-character-in-a-string)
 - [0389-find-the-difference](./0389-find-the-difference)
 - [0392-is-subsequence](./0392-is-subsequence)
