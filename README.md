@@ -337,6 +337,7 @@
 - [1791-find-center-of-star-graph](./1791-find-center-of-star-graph)
 - [1799-maximize-score-after-n-operations](./1799-maximize-score-after-n-operations)
 - [1802-maximum-value-at-a-given-index-in-a-bounded-array](./1802-maximum-value-at-a-given-index-in-a-bounded-array)
+- [1813-sentence-similarity-iii](./1813-sentence-similarity-iii)
 - [1822-sign-of-the-product-of-an-array](./1822-sign-of-the-product-of-an-array)
 - [1838-frequency-of-the-most-frequent-element](./1838-frequency-of-the-most-frequent-element)
 - [1846-maximum-element-after-decreasing-and-rearranging](./1846-maximum-element-after-decreasing-and-rearranging)
