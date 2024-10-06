@@ -19,14 +19,12 @@ public:
         vector<string> s1,s2;
         s1 = split(sentence1);
         s2 = split(sentence2);
-        // cout<<s1<<" "<<s2<<endl;
         int i=0,j=s1.size()-1,k=0,l=s2.size()-1;
-        int st=1,en=1,mt=0;
+        int st=1,en=1;
         while(i<=j){
             if(st=1 && i< s1.size() && k< s2.size() && s1[i]==s2[k]){
                 i++;
                 k++;
-                mt=1;
             }
             else{
                 st=0;
@@ -34,15 +32,12 @@ public:
             if(en=1 && i<=j && i>=0 && j>=0 && s1[j]==s2[l]){
                 j--;
                 l--;
-                mt=1;
             }
             else{
                 en=0;
             }
-            cout<<i<<" "<<j<<" "<<k<<l<<endl;;
             if(st==0 && en==0)break;
         }
-        cout<<i<<" "<<j<<endl;
         if(j<i)return true;
         return false;
         
