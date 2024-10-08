@@ -33,30 +33,42 @@ bool isCycle(int src, vector<edge*> graph[],vector<bool> &visited,vector<bool> &
    return false;
 }
 public:
-bool canFinish(int numCourses, vector<vector<int>>& prerequisites)
+bool canFinish(int n, vector<vector<int>>& pre)
 {
-int edges = prerequisites.size();
-vector<edge*> graph[numCourses];
-
-    for(int i = 0;i<edges;i++)
-    {
-        int x = prerequisites[i][0];
-        int y = prerequisites[i][1];
+ int i,j,p;
+	    p=pre.size();
+       vector<vector<int>> graph(n);
+       vector<int> deg(n,0);
+       for(auto c : pre)
+       {
+           graph[c[1]].push_back(c[0]);
+           deg[c[0]]++;
+       }
+       vector<int> v;
+       queue<int> q;
+       for(i=0;i<n;i++)
+       {
+           if(deg[i]==0)
+           q.push(i);
+       }
+       while(!q.empty())
+       {
+           int curr=q.front();
+           q.pop();
+           v.push_back(curr);
+           for(auto it:graph[curr])
+           {
+               deg[it]--;
+               if(deg[it]==0)
+               q.push(it);
+               
+           }
+       }
         
-        graph[x].push_back(new edge(x,y));
-    }
-    vector<bool> visited(numCourses,false);
-    vector<bool> dfsvisited(numCourses,false);
-
-    for(int i = 0;i<numCourses;i++)
-    {
-        if(visited[i]==false)
-        {
-            bool ans = isCycle(i, graph,visited, dfsvisited);
-            if(ans) return false;
-        }
-    }
-    
-    return true;
+       if(v.size()==n)
+       return true;
+       
+       v.clear();
+        return false;
 }
 };
