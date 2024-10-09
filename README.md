@@ -204,6 +204,7 @@
 - [0912-sort-an-array](./0912-sort-an-array)
 - [0918-maximum-sum-circular-subarray](./0918-maximum-sum-circular-subarray)
 - [0920-number-of-music-playlists](./0920-number-of-music-playlists)
+- [0921-minimum-add-to-make-parentheses-valid](./0921-minimum-add-to-make-parentheses-valid)
 - [0934-shortest-bridge](./0934-shortest-bridge)
 - [0946-validate-stack-sequences](./0946-validate-stack-sequences)
 - [0948-bag-of-tokens](./0948-bag-of-tokens)
