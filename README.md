@@ -391,6 +391,7 @@
 - [2385-amount-of-time-for-binary-tree-to-be-infected](./2385-amount-of-time-for-binary-tree-to-be-infected)
 - [2390-removing-stars-from-a-string](./2390-removing-stars-from-a-string)
 - [2405-optimal-partition-of-string](./2405-optimal-partition-of-string)
+- [2406-divide-intervals-into-minimum-number-of-groups](./2406-divide-intervals-into-minimum-number-of-groups)
 - [2418-sort-the-people](./2418-sort-the-people)
 - [2433-find-the-original-array-of-prefix-xor](./2433-find-the-original-array-of-prefix-xor)
 - [2441-largest-positive-integer-that-exists-with-its-negative](./2441-largest-positive-integer-that-exists-with-its-negative)
