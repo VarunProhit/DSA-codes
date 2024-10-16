@@ -409,6 +409,7 @@
 - [2597-the-number-of-beautiful-subsets](./2597-the-number-of-beautiful-subsets)
 - [2616-minimize-the-maximum-difference-of-pairs](./2616-minimize-the-maximum-difference-of-pairs)
 - [2620-counter](./2620-counter)
+- [2621-sleep](./2621-sleep)
 - [2667-create-hello-world-function](./2667-create-hello-world-function)
 - [2678-number-of-senior-citizens](./2678-number-of-senior-citizens)
 - [2706-buy-two-chocolates](./2706-buy-two-chocolates)
