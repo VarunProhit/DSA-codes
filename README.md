@@ -415,6 +415,7 @@
 - [2706-buy-two-chocolates](./2706-buy-two-chocolates)
 - [2707-extra-characters-in-a-string](./2707-extra-characters-in-a-string)
 - [2715-timeout-cancellation](./2715-timeout-cancellation)
+- [2727-is-object-empty](./2727-is-object-empty)
 - [2785-sort-vowels-in-a-string](./2785-sort-vowels-in-a-string)
 - [2807-insert-greatest-common-divisors-in-linked-list](./2807-insert-greatest-common-divisors-in-linked-list)
 - [2812-find-the-safest-path-in-a-grid](./2812-find-the-safest-path-in-a-grid)
