@@ -411,6 +411,7 @@
 - [2620-counter](./2620-counter)
 - [2621-sleep](./2621-sleep)
 - [2667-create-hello-world-function](./2667-create-hello-world-function)
+- [2677-chunk-array](./2677-chunk-array)
 - [2678-number-of-senior-citizens](./2678-number-of-senior-citizens)
 - [2706-buy-two-chocolates](./2706-buy-two-chocolates)
 - [2707-extra-characters-in-a-string](./2707-extra-characters-in-a-string)
