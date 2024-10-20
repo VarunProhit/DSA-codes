@@ -230,6 +230,7 @@
 - [1071-greatest-common-divisor-of-strings](./1071-greatest-common-divisor-of-strings)
 - [1091-shortest-path-in-binary-matrix](./1091-shortest-path-in-binary-matrix)
 - [1105-filling-bookcase-shelves](./1105-filling-bookcase-shelves)
+- [1106-parsing-a-boolean-expression](./1106-parsing-a-boolean-expression)
 - [1110-delete-nodes-and-return-forest](./1110-delete-nodes-and-return-forest)
 - [112-path-sum](./112-path-sum)
 - [1125-smallest-sufficient-team](./1125-smallest-sufficient-team)
