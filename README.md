@@ -296,6 +296,7 @@
 - [1518-water-bottles](./1518-water-bottles)
 - [1523-count-odd-numbers-in-an-interval-range](./1523-count-odd-numbers-in-an-interval-range)
 - [1539-kth-missing-positive-number](./1539-kth-missing-positive-number)
+- [1545-find-kth-bit-in-nth-binary-string](./1545-find-kth-bit-in-nth-binary-string)
 - [1547-minimum-cost-to-cut-a-stick](./1547-minimum-cost-to-cut-a-stick)
 - [1550-three-consecutive-odds](./1550-three-consecutive-odds)
 - [1557-minimum-number-of-vertices-to-reach-all-nodes](./1557-minimum-number-of-vertices-to-reach-all-nodes)
