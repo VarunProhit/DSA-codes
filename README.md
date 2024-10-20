@@ -411,6 +411,7 @@
 - [2616-minimize-the-maximum-difference-of-pairs](./2616-minimize-the-maximum-difference-of-pairs)
 - [2620-counter](./2620-counter)
 - [2621-sleep](./2621-sleep)
+- [2627-debounce](./2627-debounce)
 - [2667-create-hello-world-function](./2667-create-hello-world-function)
 - [2677-chunk-array](./2677-chunk-array)
 - [2678-number-of-senior-citizens](./2678-number-of-senior-citizens)
