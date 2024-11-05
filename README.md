@@ -425,6 +425,7 @@
 - [2807-insert-greatest-common-divisors-in-linked-list](./2807-insert-greatest-common-divisors-in-linked-list)
 - [2812-find-the-safest-path-in-a-grid](./2812-find-the-safest-path-in-a-grid)
 - [2903-find-indices-with-index-and-value-difference-i](./2903-find-indices-with-index-and-value-difference-i)
+- [2914-minimum-number-of-changes-to-make-binary-string-beautiful](./2914-minimum-number-of-changes-to-make-binary-string-beautiful)
 - [2966-divide-array-into-arrays-with-max-difference](./2966-divide-array-into-arrays-with-max-difference)
 - [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./2997-minimum-number-of-operations-to-make-array-xor-equal-to-k)
 - [300-longest-increasing-subsequence](./300-longest-increasing-subsequence)
