@@ -377,6 +377,7 @@
 - [2215-find-the-difference-of-two-arrays](./2215-find-the-difference-of-two-arrays)
 - [2218-maximum-value-of-k-coins-from-piles](./2218-maximum-value-of-k-coins-from-piles)
 - [2220-minimum-bit-flips-to-convert-number](./2220-minimum-bit-flips-to-convert-number)
+- [2257-count-unguarded-cells-in-the-grid](./2257-count-unguarded-cells-in-the-grid)
 - [2300-successful-pairs-of-spells-and-potions](./2300-successful-pairs-of-spells-and-potions)
 - [2305-fair-distribution-of-cookies](./2305-fair-distribution-of-cookies)
 - [2306-naming-a-company](./2306-naming-a-company)
