@@ -1,59 +1,52 @@
 class Solution {
 public:
-    void ct(int m,int n, vector<vector<int>> &v, vector<vector<int>> &vis, int i,int j, int x,int y){
-        if(i+x>=m || j+y>=n || i+x<0 || j+y<0 || v[i+x][j+y]==-1 || v[i+x][j+y]==1)
+    const int UNGUARDED = 0;
+    const int GUARDED = 1;
+    const int GUARD = 2;
+    const int WALL = 3;
+
+    void dfs(int row, int col, vector<vector<int>>& grid, char direction) {
+        if (row < 0 || row >= grid.size() || col < 0 ||
+            col >= grid[row].size() || grid[row][col] == GUARD ||
+            grid[row][col] == WALL) {
             return;
-        
-         i = i+x;
-         j = j+y;  
-        // if(v[i][j]==1 && vis[i][j]!=1)
-        //         {
-        //             vis[i][j]=1;
-        //             ct(m,n,v,vis,i,j,1,0);
-        //             ct(m,n,v,vis,i,j,0,1);
-        //             ct(m,n,v,vis,i,j,-1,0);
-        //             ct(m,n,v,vis,i,j,0,-1);
-        //         }
-        // if(vis[i][j]==1)
-        //     return;
-        vis[i][j]=1;
-        ct(m,n,v,vis,i,j,x,y);
+        }
+        grid[row][col] = GUARDED;  // Mark cell as guarded
+        if (direction == 'U') dfs(row - 1, col, grid, 'U');  // Up
+        if (direction == 'D') dfs(row + 1, col, grid, 'D');  // Down
+        if (direction == 'L') dfs(row, col - 1, grid, 'L');  // Left
+        if (direction == 'R') dfs(row, col + 1, grid, 'R');  // Right
     }
-    int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
-        
-        vector<vector<int>> v(m,vector<int>(n,0));
-        vector<vector<int>> vis(m,vector<int>(n,0));
-        int cnt=0;
-        for(auto x:guards){
-            v[x[0]][x[1]]=1;
+
+    int countUnguarded(int m, int n, vector<vector<int>>& guards,
+                       vector<vector<int>>& walls) {
+        vector<vector<int>> grid(m, vector<int>(n, UNGUARDED));
+
+        // Mark guards' positions
+        for (const auto& guard : guards) {
+            grid[guard[0]][guard[1]] = GUARD;
         }
-        for(auto x:walls){
-            v[x[0]][x[1]]=-1;
+
+        // Mark walls' positions
+        for (const auto& wall : walls) {
+            grid[wall[0]][wall[1]] = WALL;
         }
-        for(int i=0;i<m;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(v[i][j]==1 && vis[i][j]!=1)
-                {
-                    vis[i][j]=1;
-                    ct(m,n,v,vis,i,j,1,0);
-                    ct(m,n,v,vis,i,j,0,1);
-                    ct(m,n,v,vis,i,j,-1,0);
-                    ct(m,n,v,vis,i,j,0,-1);
-                }
+
+        // Mark cells as guarded by traversing from each guard
+        for (const auto& guard : guards) {
+            dfs(guard[0] - 1, guard[1], grid, 'U');  // Up
+            dfs(guard[0] + 1, guard[1], grid, 'D');  // Down
+            dfs(guard[0], guard[1] - 1, grid, 'L');  // Left
+            dfs(guard[0], guard[1] + 1, grid, 'R');  // Right
+        }
+
+        // Count unguarded cells
+        int count = 0;
+        for (const auto& row : grid) {
+            for (const auto& cell : row) {
+                if (cell == UNGUARDED) count++;
             }
         }
-         for(int i=0;i<m;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                cout<<vis[i][j]<<" ";
-                if(vis[i][j]==0 && v[i][j]!=-1)
-                    cnt++;
-            }
-             cout<<endl;
-        }
-        return cnt;
+        return count;
     }
 };
