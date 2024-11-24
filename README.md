@@ -358,6 +358,7 @@
 - [1945-sum-of-digits-of-string-after-convert](./1945-sum-of-digits-of-string-after-convert)
 - [1970-last-day-where-you-can-still-cross](./1970-last-day-where-you-can-still-cross)
 - [1971-find-if-path-exists-in-graph](./1971-find-if-path-exists-in-graph)
+- [1975-maximum-matrix-sum](./1975-maximum-matrix-sum)
 - [1980-find-unique-binary-string](./1980-find-unique-binary-string)
 - [1996-the-number-of-weak-characters-in-the-game](./1996-the-number-of-weak-characters-in-the-game)
 - [2007-find-original-array-from-doubled-array](./2007-find-original-array-from-doubled-array)
