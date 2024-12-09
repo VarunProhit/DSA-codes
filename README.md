@@ -434,6 +434,7 @@
 - [300-longest-increasing-subsequence](./300-longest-increasing-subsequence)
 - [310-minimum-height-trees](./310-minimum-height-trees)
 - [3110-score-of-a-string](./3110-score-of-a-string)
+- [3152-special-array-ii](./3152-special-array-ii)
 - [3163-string-compression-iii](./3163-string-compression-iii)
 - [336-palindrome-pairs](./336-palindrome-pairs)
 - [393-utf-8-validation](./393-utf-8-validation)
