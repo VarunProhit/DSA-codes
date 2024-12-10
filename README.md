@@ -430,6 +430,7 @@
 - [2903-find-indices-with-index-and-value-difference-i](./2903-find-indices-with-index-and-value-difference-i)
 - [2914-minimum-number-of-changes-to-make-binary-string-beautiful](./2914-minimum-number-of-changes-to-make-binary-string-beautiful)
 - [2966-divide-array-into-arrays-with-max-difference](./2966-divide-array-into-arrays-with-max-difference)
+- [2981-find-longest-special-substring-that-occurs-thrice-i](./2981-find-longest-special-substring-that-occurs-thrice-i)
 - [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](./2997-minimum-number-of-operations-to-make-array-xor-equal-to-k)
 - [300-longest-increasing-subsequence](./300-longest-increasing-subsequence)
 - [310-minimum-height-trees](./310-minimum-height-trees)
